@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danielwlemmon
 - 👀 I’m interested in learning everything I can about developing applications
-- 🌱 I’m currently learning NoSQL database fundementals.
+- 🌱 I’m currently on break from school, but working on side projects for fun.
 - 📫 How to reach me message me.
 
 <!---
